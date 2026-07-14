@@ -87,3 +87,13 @@ Plataforma de pedidos para quiosques de praia, pensada tanto como exercício de 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 </div>
+
+---
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raphaelTake/raphaelTake/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/raphaelTake/raphaelTake/output/github-contribution-grid-snake.svg" />
+  <img alt="Cobrinha comendo os commits" src="https://raw.githubusercontent.com/raphaelTake/raphaelTake/output/github-contribution-grid-snake.svg" />
+</picture>
+</div>
