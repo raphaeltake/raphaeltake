@@ -45,7 +45,7 @@
 
 ## 📌 Projeto em destaque
 
-### 🌅 [Pôr-do-Sol](https://github.com/raphaelTake)
+### 🌅 [Pôr-do-Sol](https://github.com/projeto-por-do-sol/por-do-sol-app-cliente)
 Plataforma de pedidos para quiosques de praia, pensada tanto como exercício de aprendizado quanto como peça de portfólio.
 
 - 📱 App cliente em **Flutter**, com telas completas: home, detalhe do quiosque, detalhe do item (com ingredientes removíveis e adicionais), carrinho, login, acompanhamento e histórico de pedidos.
