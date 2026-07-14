@@ -95,3 +95,9 @@ Plataforma de pedidos para quiosques de praia, pensada tanto como exercício de 
   <img alt="Cobrinha comendo os commits" src="https://raw.githubusercontent.com/raphaelTake/raphaelTake/output/github-contribution-grid-snake.svg" />
 </picture>
 </div>
+
+<div align="center">
+
+![Visitas ao perfil](https://komarev.com/ghpvc/?username=raphaelTake&color=C0420A&style=for-the-badge)
+
+</div>
