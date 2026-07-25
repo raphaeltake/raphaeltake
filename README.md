@@ -96,8 +96,8 @@ Plataforma de pedidos para quiosques de praia, pensada tanto como exercício de 
 </picture>
 </div>
 
-<div align="center">
+<!-- <div align="center">
 
 ![Visitas ao perfil](https://komarev.com/ghpvc/?username=raphaelTake&color=C0420A&style=for-the-badge)
 
-</div>
+</div> -->
