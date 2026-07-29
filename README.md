@@ -17,7 +17,7 @@
 
 ## 🌱 Aprendendo atualmente
 - Java
-- Flutter
+- Angular
 
 ---
 
